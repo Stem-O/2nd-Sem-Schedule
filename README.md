@@ -7,7 +7,7 @@
 | 11:30-12:30 **BASIC CALCULUS** |4:30-5:30 **HMRM** |  2:30-3:30 **ET** | **EMPTY** | 12:30-1:30 **ICLT** |
 | 12:30-1:30 **ICLT** |**EMPTY**|  3:30-4:30 **ENG**| **EMPTY** | 12:30-1:30 **ICLT**| 2:30-3:30 **ET** |
 | 2:30-3:30 **ET**| **EMPTY**|  4:30 5:30 | **EMPTY** | 2:30-3:30 **ET** | 3:30-4:30 **ENG** |
-| 3:30-4:30 **ENG**| **EMPTY** | **EMPTY**| **EMPTY**| 4:30-5:30 CLE |
+| 3:30-4:30 **ENG**| **EMPTY** | **EMPTY**| **EMPTY**| 4:30-5:30 **CLE** |
 | 4:30-5:30 **CLE** | **EMPTY** |**EMPTY** | **EMPTY** | **EMPTY**|
 
 ## Goodluck guys kaya tani ❤️
