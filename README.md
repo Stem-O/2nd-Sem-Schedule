@@ -11,7 +11,7 @@
 | 4:30-5:30 **CLE** | **EMPTY** |**EMPTY** | **EMPTY** | **EMPTY**|
 
 ## 📚 Subjects
-|**PRAC-RES**|**STATISTICS**|**DRR**|**FIL**|**ENG**|**ET**|**CLE**|**PE**|**GENCHEM**|**CALCULUS**|
+|**PRAC-RES**|**STATISTICS**|**DRR**|**FIL**|**ENG**|**ET**|**CLE**|**PE**|**GENCHEM**|**BASIC CALCULUS**|
 |---|---|---|---|---|---|---|---|---|--|
 
 ## ☝️ Glory be to God ☝️ 
