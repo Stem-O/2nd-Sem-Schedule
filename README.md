@@ -21,6 +21,7 @@
 
 **Psalm 94:18–19**
 When I thought, "My foot slips," Your steadfast love, O LORD, helped me up. When the cares of my heart are many, Your consolations cheer my soul.
+<hr/>
 
 **1 Corinthians 13:4**
 Love is patient, love is kind. It does not envy, it does not boast, it is not proud.  
