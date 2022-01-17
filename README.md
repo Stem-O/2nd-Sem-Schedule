@@ -1,4 +1,4 @@
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50px"> 2nd-Sem-Schedule
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="30px"> 2nd-Sem-Schedule
 | M | T  | W | TH  | F |
 |---|---|---|---|---|
 | 8:30-9:30 **PRACRES**  | 7:30-9:00 **STATISTICS**  |  9:30-10:30 **DRR** | 7:30-9:00 **STATISTICS** |  9:30-10:30 **DRR**  |
@@ -14,6 +14,8 @@
 |**PRAC-RES**|**STATISTICS**|**DRR**|**FIL**|**ENG**|**ET**|**CLE**|**PE**|**GENCHEM**|**CALCULUS**|
 |---|---|---|---|---|---|---|---|---|--|
 
-## Goodluck guys kaya tani ❤️
+## Glory be to God ☝️
+Psalm 23:1–6
+4 Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.
 
 
