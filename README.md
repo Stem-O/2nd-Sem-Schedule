@@ -14,7 +14,7 @@
 |**PRAC-RES**|**STATISTICS**|**DRR**|**FIL**|**ENG**|**ET**|**CLE**|**PE**|**GENCHEM**|**CALCULUS**|
 |---|---|---|---|---|---|---|---|---|--|
 
-## Glory be to God ☝️
+## Glory be to God ☝️ ☝️
 Psalm 23:1–6
 4 Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.
 
