@@ -15,10 +15,8 @@
 |---|---|---|---|---|---|---|---|---|--|
 
 ## ☝️ Glory be to God ☝️ 
-Psalm 23:1–6
+**Psalm 23:1–6**
 4 Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.
-
-</hr>
-
-Psalm 94:18–19
+<hr/>
+**Psalm 94:18–19**
 When I thought, "My foot slips," Your steadfast love, O LORD, helped me up. When the cares of my heart are many, Your consolations cheer my soul.
