@@ -10,7 +10,7 @@
 | 3:30-4:30 **ENG**| **EMPTY** | **EMPTY**| **EMPTY**| **EMPTY** |
 | 4:30-5:30 **CLE** | **EMPTY** |**EMPTY** | **EMPTY** | **EMPTY**|
 
-## Subjects
+## 📚 Subjects
 |**PRAC-RES**|**STATISTICS**|**DRR**|**FIL**|**ENG**|**ET**|**CLE**|**PE**|**GENCHEM**|**CALCULUS**|
 |---|---|---|---|---|---|---|---|---|--|
 
