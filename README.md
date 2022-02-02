@@ -5,8 +5,8 @@
 | 9:30-10:30 **DRR**  |  10:30-12:00 **FIL**  |  9:30-10:30 **DRR** | 10:30-12:00 **FIL** |   9:30-10:30 **DRR** |
 | 10:30-11:30 **GENCHEM** | 1:30-3:30 **PE**  | 10:30-11:30 **Gen Chem** | **EMPTY**  |   10:30-11:30 **Gen Chem**  |
 | 12:30-1:30 **BASIC CALCULUS** |4:30-5:30 **HMRM** |  12:30-1:30 **BASIC CALCULUS** | **EMPTY** |  12:30-1:30 **BASIC CALCULUS** |
-| 2:30-3:30 **ET** |**EMPTY**|   **ET**| **EMPTY** | 2:30-3:30 **ET**  | 
-| 3:30-4:30 **ReadWS**| **EMPTY**|  **ReadWS** | **EMPTY** | 3:30-4:30 **ReadWS** |
+| 2:30-3:30 **ET** |**EMPTY**|   2:30-3:30 **ET**| **EMPTY** | 2:30-3:30 **ET**  | 
+| 3:30-4:30 **ReadWS**| **EMPTY**|  3:30-4:30 **ReadWS** | **EMPTY** | 3:30-4:30 **ReadWS** |
 | 4:30-5:30 **CLE**| **EMPTY** | 4:30-5:30 **CLE**| **EMPTY**| 4:30-5:30 **CLE** |
 | **EMPTY** | **EMPTY** |**EMPTY** | **EMPTY** | **EMPTY**|
 
