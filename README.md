@@ -7,7 +7,7 @@
 | 12:30-1:30 **BASIC CALCULUS** |4:30-5:30 **HMRM** |  12:30-1:30 **BASIC CALCULUS** | **EMPTY** |  12:30-1:30 **BASIC CALCULUS** |
 | 2:30-3:30 **ET** |**EMPTY**|   **EMPTY**| **EMPTY** | 2:30-3:30 **EMPTY**  | 
 | 3:30-4:30 **ReadWS**| **EMPTY**|  **EMPTY** | **EMPTY** | 3:30-4:30 **ReadWS** |
-| 4:30-5:30 **CLE**| **EMPTY** | 4:30-5:30**CLE**| **EMPTY**| 4:30-5:30**CLE** |
+| 4:30-5:30 **CLE**| **EMPTY** | 4:30-5:30 **CLE**| **EMPTY**| 4:30-5:30 **CLE** |
 | **EMPTY** | **EMPTY** |**EMPTY** | **EMPTY** | **EMPTY**|
 
 ## 📚 Subjects
